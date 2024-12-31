@@ -1,0 +1,120 @@
+/* Debut header */
+body {
+    margin: 0;
+    padding: 0;
+background-color: black;
+}
+nav {
+    text-align: center;
+    font-size: medium;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    color: white;
+text-decoration: none;
+}
+nav li {
+    display: inline;
+    list-style: none;
+}
+/* Fin partie header */
+
+/* Debut image */
+.image {
+    width: 100%;
+}
+/* Fin image */
+
+/* Debut aceuil */
+.Bienvenue {
+    color: white;
+}
+.Acueil {
+    text-align: center;
+    color: white;
+}
+.Parcours {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 55%;
+}
+.Parcoursgauche {
+    width: 60%;
+    margin-right: 10px;
+}
+.Parcoursimage {
+    margin-top: 2%;
+
+    float: right;
+}
+/* Fin acceuil */ 
+
+/* Debut Projets */
+.Projets {
+    background-image: url("image/image_info.jpg");
+    padding-bottom: 10%;
+}
+.MesProjets {
+    margin-left: 23%;
+    color: white;
+}
+.Projects h1 {
+    margin-left: 23%;
+}
+.Projetfait {
+    width: 60%;
+    margin-right: 10px;
+    margin-left: 23%;
+    color: white;
+}
+.texte {
+    margin-left: 23%;
+    color: white;
+}
+.Projects {
+    width: 70%;
+    height: 20%;
+    background-color: black;
+    align-items: center;
+    color: white;
+}
+.Projects img {
+    margin-left: 43%;
+    width: 15%;
+    height: 20%;
+}
+/* Fin Projets */
+
+/* Debut CV */
+.CV {
+    padding-bottom: 10%;
+    margin-left: 23%;
+    color: white;
+}
+.introductionCV {
+    width: 60%;
+    margin-right: 10px;
+}
+/* Fin CV */
+
+/* Debut liens */
+.Liens {
+    color: white;
+    padding-bottom: 10%;
+    margin-left: 23%;
+}
+
+
+/* Debut Contact */
+.contact {
+    color: white;
+}
+.mail:hover {
+    color: lightblue;
+    font-weight: bold;
+}

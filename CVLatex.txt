@@ -1,0 +1,89 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\geometry{top=2cm,bottom=2cm,left=2.5cm,right=2.5cm}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+\Huge \textbf{Hannah Da Silva Tafial} \\
+\vspace{0.2cm}
+\large
+58 rue Césaria Evora, Paris 19 \\
+\href{mailto:}{dasilvatafial@gmail.com} \\
+07 81 24 42 61
+\end{center}
+
+\vspace{1cm}
+
+\noindent
+\textbf{Profil} \\
+Étudiante en licence informatique, je suis vive, curieuse et passionnée par le sport, le cinéma et l’univers des jeux vidéo aussi bien dans leur aspect technique que créatif.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Diplômes et certifications}
+
+\begin{itemize}[label=-]
+    \item Août 2024 : Niveau 1 de voilier habitable
+    \item Juin 2024 : Diplôme du baccalauréat général (spécialités maths, physique/chimie et économie)
+    \item Juin 2021 : Diplôme national du brevet (mention AB)
+    \item Février 2021 : ASSR 2
+    \item Août 2017 : Baptême de plongée sous-marine
+    \item 2014-2015 : Diplôme du petit philanthrope pour l'association Arca do Saber (4 ans de scolarité au lycée Pasteur de Sao Paulo, Brésil)
+\end{itemize}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Expériences professionnelles et bénévoles}
+
+\begin{itemize}[label=-]
+    \item Restos du cœur : service des repas aux plus démunis
+    \item Baby-sitting régulier (avec contrat de travail)
+    \item Secours populaire : collecte de vêtements, jouets et livres pour les plus démunis
+    \item Ostra Paris : aide en extra dans le restaurant familial
+    \item Eco-déléguée du lycée international Honoré de Balzac en 2nde (Paris 17)
+    \item Déléguée de classe au collège Suzanne Lacore en classes de 6e et 3e (Paris 19)
+\end{itemize}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Expériences diverses}
+
+\begin{itemize}[label=-]
+    \item Depuis 2019 : pratique d’instruments de musique en autodidacte (guitare classique et électrique, piano, harmonica)
+    \item 2021-2022 : Option cinéma en 2nde (réalisation d’un court métrage)
+    \item 2018-2021 : Latin + Grec au collège
+\end{itemize}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Langues}
+
+\begin{itemize}[label=-]
+    \item Portugais (B1)
+    \item Espagnol (B1)
+    \item Anglais
+\end{itemize}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Loisirs et centres d'intérêt}
+
+\begin{itemize}[label=-]
+    \item \textbf{Sports} : Capoeira (4 ans au Brésil) - Musculation - Vélo (moyen de transport + loisirs) - Voilier
+    \item \textbf{Loisirs} : Tout ce qui enrichit ma culture m’émerveille : cinéma - théâtre - musées - lecture - voyages
+    \item \textbf{Passions} : Les échecs (je tiens un cahier d’échecs) - Les cétacés - L’opéra
+\end{itemize}
+
+\end{document}
